@@ -4,127 +4,127 @@
     "name": "Marta",
     "picture": "images/scottish-terrier.jpeg",
     "age": 3,
-    "breed": "Marta Collins",
-    "location": "Lisco, Alabama"
+    "address": "21, st lukes",
+    "dateofbirth": "22/08/1987"
   },
   {
     "id": 1,
     "name": "Mathew",
     "picture": "images/scottish-terrier.jpeg",
     "age": 3,
-    "breed": "Mathew Oliver",
-    "location": "Tooleville, West Virginia"
+    "address": "4th avenue",
+    "dateofbirth": "15/10/2011"
   },
   {
     "id": 2,
     "name": "Adam",
     "picture": "images/french-bulldog.jpeg",
     "age": 2,
-    "breed": "Adam Mcvoy",
-    "location": "Freeburn, Idaho"
+    "address": "78, capel street",
+    "dateofbirth": "22/06/1900"
   },
   {
     "id": 3,
     "name": "Melissa",
     "picture": "images/boxer.jpeg",
     "age": 2,
-    "breed": "Melissa Manson",
-    "location": "Camas, Pennsylvania"
+    "address": "45, new haven",
+    "dateofbirth": "05/03/2001"
   },
   {
     "id": 4,
     "name": "James",
     "picture": "images/french-bulldog.jpeg",
     "age": 2,
-    "breed": "James Frank",
-    "location": "Gerber, South Dakota"
+    "address": "32, new square",
+    "dateofbirth": "05/03/2001"
   },
   {
     "id": 5,
     "name": "Tommy",
     "picture": "images/french-bulldog.jpeg",
     "age": 3,
-    "breed": "Tommy Highfigher",
-    "location": "Innsbrook, Illinois"
+    "address": "67 high street",
+    "dateofbirth": "07/08/2001"
   },
   {
     "id": 6,
     "name": "Alanis",
     "picture": "images/golden-retriever.jpeg",
     "age": 3,
-    "breed": "Alanis Morissette",
-    "location": "Soudan, Louisiana"
+    "address": "4, south denver",
+    "dateofbirth": "14/02/2000"
   },
   {
     "id": 7,
-    "name": "Coleman",
+    "name": "Coleman James",
     "picture": "images/golden-retriever.jpeg",
     "age": 3,
-    "breed": "Golden Retriever",
-    "location": "Jacksonwald, Palau"
+    "address": "34, shout street",
+    "dateofbirth": "23/02/1888"
   },
   {
     "id": 8,
     "name": "Nichole",
     "picture": "images/french-bulldog.jpeg",
     "age": 2,
-    "breed": "French Bulldog",
-    "location": "Honolulu, Hawaii"
+    "address": "5, High street",
+    "dateofbirth": "05/03/2001"
   },
   {
     "id": 9,
-    "name": "Fran",
+    "name": "Fran Davis",
     "picture": "images/boxer.jpeg",
     "age": 3,
-    "breed": "Boxer",
-    "location": "Matheny, Utah"
+    "address": "4, lower saxony",
+    "dateofbirth": "07/11/2001"
   },
   {
     "id": 10,
     "name": "Leonor",
     "picture": "images/boxer.jpeg",
     "age": 2,
-    "breed": "Boxer",
-    "location": "Tyhee, Indiana"
+    "address": "22, st north",
+    "dateofbirth": "21/03/2001"
   },
   {
     "id": 11,
     "name": "Dean",
     "picture": "images/scottish-terrier.jpeg",
     "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Windsor, Montana"
+    "address": "44, ranch street",
+    "dateofbirth": "05/03/2001"
   },
   {
     "id": 12,
     "name": "Stevenson",
     "picture": "images/french-bulldog.jpeg",
     "age": 3,
-    "breed": "French Bulldog",
-    "location": "Kingstowne, Nevada"
+    "address": "65, oval square",
+    "dateofbirth": "05/03/2001"
   },
   {
     "id": 13,
     "name": "Kristina",
     "picture": "images/golden-retriever.jpeg",
     "age": 4,
-    "breed": "Golden Retriever",
-    "location": "Sultana, Massachusetts"
+    "address": "34, deep south carolina",
+    "dateofbirth": "05/03/2001"
   },
   {
     "id": 14,
     "name": "Ethel",
     "picture": "images/golden-retriever.jpeg",
     "age": 2,
-    "breed": "Golden Retriever",
-    "location": "Broadlands, Oregon"
+    "address": "12, denver road",
+    "dateofbirth": "25/03/2001"
   },
   {
     "id": 15,
     "name": "Terry",
     "picture": "images/golden-retriever.jpeg",
     "age": 2,
-    "breed": "Golden Retriever",
-    "location": "Dawn, Wisconsin"
+    "address": "34, colorado",
+    "dateofbirth": "05/03/2001"
   }
 ]
