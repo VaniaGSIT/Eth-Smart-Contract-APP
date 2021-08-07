@@ -3,7 +3,7 @@ App = {
   contracts: {},
 
   init: async function() {
-    // Load pets.
+    // Load patients.
     $.getJSON('../pets.json', function(data) {
       var petsRow = $('#petsRow');
       var petTemplate = $('#petTemplate');

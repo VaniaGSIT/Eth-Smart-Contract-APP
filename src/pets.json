@@ -2,7 +2,7 @@
   {
     "id": 0,
     "name": "Marta",
-    "picture": "images/scottish-terrier.jpeg",
+    "picture": "images/patient3.jpeg",
     "age": 3,
     "address": "21, st lukes",
     "dateofbirth": "22/08/1987"
@@ -10,7 +10,7 @@
   {
     "id": 1,
     "name": "Mathew",
-    "picture": "images/scottish-terrier.jpeg",
+    "picture": "images/patient3.jpeg",
     "age": 3,
     "address": "4th avenue",
     "dateofbirth": "15/10/2011"
@@ -18,7 +18,7 @@
   {
     "id": 2,
     "name": "Adam",
-    "picture": "images/french-bulldog.jpeg",
+    "picture": "images/patient2.jpeg",
     "age": 2,
     "address": "78, capel street",
     "dateofbirth": "22/06/1900"
@@ -26,7 +26,7 @@
   {
     "id": 3,
     "name": "Melissa",
-    "picture": "images/boxer.jpeg",
+    "picture": "images/patient.jpeg",
     "age": 2,
     "address": "45, new haven",
     "dateofbirth": "05/03/2001"
@@ -34,7 +34,7 @@
   {
     "id": 4,
     "name": "James",
-    "picture": "images/french-bulldog.jpeg",
+    "picture": "images/patient2.jpeg",
     "age": 2,
     "address": "32, new square",
     "dateofbirth": "05/03/2001"
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "name": "Tommy",
-    "picture": "images/french-bulldog.jpeg",
+    "picture": "images/patient2.jpeg",
     "age": 3,
     "address": "67 high street",
     "dateofbirth": "07/08/2001"
@@ -50,7 +50,7 @@
   {
     "id": 6,
     "name": "Alanis",
-    "picture": "images/golden-retriever.jpeg",
+    "picture": "images/patient1.jpeg",
     "age": 3,
     "address": "4, south denver",
     "dateofbirth": "14/02/2000"
@@ -58,7 +58,7 @@
   {
     "id": 7,
     "name": "Coleman James",
-    "picture": "images/golden-retriever.jpeg",
+    "picture": "images/patient1.jpeg",
     "age": 3,
     "address": "34, shout street",
     "dateofbirth": "23/02/1888"
@@ -66,7 +66,7 @@
   {
     "id": 8,
     "name": "Nichole",
-    "picture": "images/french-bulldog.jpeg",
+    "picture": "images/patient2.jpeg",
     "age": 2,
     "address": "5, High street",
     "dateofbirth": "05/03/2001"
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "name": "Fran Davis",
-    "picture": "images/boxer.jpeg",
+    "picture": "images/patient.jpeg",
     "age": 3,
     "address": "4, lower saxony",
     "dateofbirth": "07/11/2001"
@@ -82,7 +82,7 @@
   {
     "id": 10,
     "name": "Leonor",
-    "picture": "images/boxer.jpeg",
+    "picture": "images/patient.jpeg",
     "age": 2,
     "address": "22, st north",
     "dateofbirth": "21/03/2001"
@@ -90,7 +90,7 @@
   {
     "id": 11,
     "name": "Dean",
-    "picture": "images/scottish-terrier.jpeg",
+    "picture": "images/patient3.jpeg",
     "age": 3,
     "address": "44, ranch street",
     "dateofbirth": "05/03/2001"
@@ -98,7 +98,7 @@
   {
     "id": 12,
     "name": "Stevenson",
-    "picture": "images/french-bulldog.jpeg",
+    "picture": "images/patient2.jpeg",
     "age": 3,
     "address": "65, oval square",
     "dateofbirth": "05/03/2001"
@@ -106,7 +106,7 @@
   {
     "id": 13,
     "name": "Kristina",
-    "picture": "images/golden-retriever.jpeg",
+    "picture": "images/patient1.jpeg",
     "age": 4,
     "address": "34, deep south carolina",
     "dateofbirth": "05/03/2001"
@@ -114,7 +114,7 @@
   {
     "id": 14,
     "name": "Ethel",
-    "picture": "images/golden-retriever.jpeg",
+    "picture": "images/patient1.jpeg",
     "age": 2,
     "address": "12, denver road",
     "dateofbirth": "25/03/2001"
@@ -122,7 +122,7 @@
   {
     "id": 15,
     "name": "Terry",
-    "picture": "images/golden-retriever.jpeg",
+    "picture": "images/patient1.jpeg",
     "age": 2,
     "address": "34, colorado",
     "dateofbirth": "05/03/2001"
